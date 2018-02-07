@@ -1,3 +1,29 @@
-baseURL = "http://example.org/"
+baseurl = "http://yourdomain.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Drabick Services"
+canonifyUrls = "true"
+
+[params]
+    description = "For when you want it done right"
+    custom_css = ["css/local.css"]
+
+[[params.social]]
+    title = "General contractor"
+    icon = "envelope-o"
+    url = "mailto:drabickservices@gmail.com"
+[[params.social]]
+    title = "Handyman"
+    icon = "envelope-o"
+    url = "mailto:bushbama@whitehouse.gov"
+[[params.social]]
+    title = "Lawn care"
+    icon = "twitter"
+    url = "https://twitter.com/SBootstrap"
+[[params.social]]
+    title = "Furniture"
+    icon = "github"
+    url = "https://imgur.com/user/drabickservices"
+[[params.social]]
+    title = "linkedin"
+    icon = "linkedin"
+    url = "http://linkedin.com/in/yourusername"
