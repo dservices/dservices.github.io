@@ -4,7 +4,7 @@ title = "Drabick Services"
 canonifyUrls = "true"
 
 [params]
-    description = "For when you want it done right"
+    description = "When it needs to be done right"
     custom_css = ["css/local.css"]
 
 [[params.social]]
