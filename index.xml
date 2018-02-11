@@ -41,12 +41,23 @@ title parameter sets the text to be displayed on the contact button icon paramet
     </item>
     
     <item>
+      <title>Pricing</title>
+      <link>https://dservices.github.io/pricing/pricing/</link>
+      <pubDate>Fri, 01 Sep 2017 17:39:43 +0200</pubDate>
+      
+      <guid>https://dservices.github.io/pricing/pricing/</guid>
+      <description>Contracting: Bids are per job, plus materials
+Lawn care: Based on estimation of lawn size, as well as mitigating geographic features (hills).
+Furniture: Per piece, labor plus materials</description>
+    </item>
+    
+    <item>
       <title>About Us</title>
       <link>https://dservices.github.io/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
       <guid>https://dservices.github.io/about/about/</guid>
-      <description>WidgetCo is the world leader in widget production.</description>
+      <description>Drabick Services is your go-to handyman company for any job you want done right - the first time. I offer fair pricing and bring a wide range of skills to any project, large or small. Based in Dormont, I do work throughout the South Hills, but am willing to travel further for some projects. In addition to typical handyman projects, I run a lawn care service in the summer and snow removal in the winter.</description>
     </item>
     
   </channel>

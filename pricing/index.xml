@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pricings on Drabick Services</title>
+    <link>https://dservices.github.io/pricing/</link>
+    <description>Recent content in Pricings on Drabick Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 17:39:43 +0200</lastBuildDate>
+    
+	<atom:link href="https://dservices.github.io/pricing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pricing</title>
+      <link>https://dservices.github.io/pricing/pricing/</link>
+      <pubDate>Fri, 01 Sep 2017 17:39:43 +0200</pubDate>
+      
+      <guid>https://dservices.github.io/pricing/pricing/</guid>
+      <description>Contracting: Bids are per job, plus materials
+Lawn care: Based on estimation of lawn size, as well as mitigating geographic features (hills).
+Furniture: Per piece, labor plus materials</description>
+    </item>
+    
+  </channel>
+</rss>
