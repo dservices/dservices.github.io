@@ -1,60 +1,41 @@
 [
     {
-        "name": "Free",
+        "name": "Contracting",
         "link": "signup/free",
-        "linkText": "Signup",
+        "linkText": "Contracting",
         "features": [
             {
-                "name": "Free-Feature 1",
-                "description": "My feature 1 can do..."
+                "name": "Labor plus materials"
             },
             {
-                "name": "Free-Feature 2",
-                "description": "with feature 2 you can..."
-            },
-            {
-                "name": "",
-                "description": ""
+                "name": "Bids are per job"
             }
         ]
     },
     {
-        "name": "Basic",
+        "name": "Lawn Care",
         "link": "signup/basic",
-        "linkText": "Signup",
+        "linkText": "Lawn Care",
         "features": [
             {
-                "name": "Basic-Feature1",
-                "description": "you can do..."
+                "name": "Based on an estimation of lawn size"
             },
             {
-                "name": "Basic-Feature2",
-                "description": "more details"
-            },
-            {
-                "name": "Basic-Feature3",
-                "description": "you can't believe it"
+                "name": "Mitigating geographic features are considered"
             }
         ]
     },
     {
-        "name": "Premium",
+        "name": "Furniture",
         "link": "signup/premium",
-        "linkText": "Signup",
+        "linkText": "Furniture",
         "features": [
             {
-                "name": "Premium-Feature1",
-                "description": "you can do..."
+                "name": "Labor plus materials"
             },
             {
-                "name": "Premium-Feature2",
-                "description": "more details"
-            },
-            {
-                "name": "Premium-Feature3",
-                "description": "you can't believe it"
+                "name": "Bids are per piece"
             }
         ]
     }
-
 ]
